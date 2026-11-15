@@ -1,5 +1,5 @@
 # ft_printf
-This project has been created as part of the 42 curriculum by _adorofei_. If you have any questions, feel free to reach out via email: adorofei@student.42prague.com.
+This project has been created as part of the 42 curriculum by me. If you have any questions, feel free to reach me.
 
 ## About the Project
 
